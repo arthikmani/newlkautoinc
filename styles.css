@@ -1,0 +1,95 @@
+body {
+  background: #f3f3f3;
+  font-family: 'Open Sans', sans-serif;
+  color: #666; }
+
+a {
+  color: inherit; }
+
+.navbar {
+  border-bottom: #FFD700 3px solid;
+  opacity: 0.8; }
+  .navbar .nav-link {
+    color: #FFD700; }
+
+.heading1 {
+  text-align: center; }
+
+.title {
+  color: #FFD700; }
+
+#home-section {
+  background-image: url(img/HomeScreenGTR.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 820px;
+  text-align: center; }
+  #home-section .dark-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 820px; }
+  #home-section .home-inner {
+    padding-top: 150px; }
+
+#hometext {
+  margin-top: 20%; }
+
+#services {
+  background-color: #f3f3f3;
+  width: 100%; }
+
+#socialReviews {
+  background-color: #f3f3f3;
+  width: 100%; }
+
+#footer {
+  background: #333;
+  max-width: 100%;
+  max-height: 100%;
+  color: #FFD700; }
+
+.footer1 {
+  margin-left: 17%; }
+
+.carousel-inner > .item > img {
+  width: 640px;
+  height: 360px; }
+
+.tele {
+  margin-bottom: 10px; }
+
+/*----------SERVICES PAGE-----------------*/
+#servicespage {
+  background-color: #f3f3f3; }
+
+#pageheader {
+  background-image: url(img/bmw.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 500px;
+  text-align: center;
+  max-width: 100%; }
+
+.headersection {
+  margin-top: 10%;
+  color: #FFD700; }
+
+.servicelist1 {
+  background-color: #f3f3f3;
+  width: 100%; }
+
+.servicelist2 {
+  background-color: #e8e8e8;
+  width: 100%; }
+
+.jumbotron {
+  background-image: url(img/bmw.jpg);
+  background-repeat: no-repeat;
+  max-width: 100%;
+  background-size: cover;
+  min-height: 500px;
+  color: #FFD700; }
+
+/*# sourceMappingURL=styles.css.map */
